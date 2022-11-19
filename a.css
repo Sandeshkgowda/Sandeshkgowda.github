@@ -1,0 +1,10 @@
+ 
+        h1,h2{
+            color: lawngreen;
+            text-transform: lowercase;
+        }
+        
+        .classSelector{
+            color:aqua;
+
+        }
